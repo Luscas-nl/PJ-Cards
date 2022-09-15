@@ -11,6 +11,11 @@ function App() {
     <div className="App">
       <Header />
       <Viewer />
+
+      <section className='cardsSec'>
+        
+      </section>
+
     </div>
   )
 }
